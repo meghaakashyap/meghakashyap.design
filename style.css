@@ -1,0 +1,538 @@
+
+#header {
+
+    height: 120px;
+	width: 1500px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: ##F1F1F1;
+	
+}
+
+
+
+button.home {
+	position: absolute;
+	top: 40px;
+	left: 200px;
+}
+
+.home:hover {
+	background-color: #BC0404;
+}
+
+button.resume {
+	position: absolute;
+	top: 40px;
+	left: 800px;
+}
+
+.email:hover {
+	background-color: #BC0404;
+}
+
+
+}
+
+.otherwork:hover {
+ background-color: #BC0404;
+}
+
+button.ow {
+
+	position: absolute;
+	top: 40px;
+	left: 1520px;
+}
+
+h2.mail {
+	font-size: 18px;
+	color: #000000;
+	font-family: sans-serif;
+	position: absolute;
+	top: 36px;
+	left: 970px;
+}
+
+.ow:hover{
+	background-color: #BC0404;
+}
+
+.resume:hover{
+	background-color: #BC0404;
+}
+
+button{
+	color: #FFFFFF;
+	background-color: #000000;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	border-radius: 25px;
+	border: none;
+	padding: 10px 30px 10px 30px;
+
+}
+
+
+h1{
+	position: absolute;
+	top: 150px;
+	left: 500px;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+h2 {
+	position: absolute;
+	top: 147px;
+	left: 500px;
+	font-size: 20px;
+	font-weight: normal;
+	color: #BC0404;
+}
+
+h4 {
+	position: absolute;
+	top: 135px;
+	left: 770px;
+	font-size: 25px;
+	font-weight: normal;
+	color: #BC0404;
+
+}
+
+
+img.face {
+	position: absolute;
+	top: 180px;
+	left: 200px;
+	height: 260px;
+	width: 250px;
+}
+
+
+
+
+
+p.line {
+	position: absolute;
+	top: 225px;
+	left: 500px;
+	font-size: 35px;
+	font-weight: normal;
+	color: #000000;
+	line-height: 47px;
+	letter-spacing: 0.2px;
+}
+
+p.org {
+	position: absolute;
+	top: 385px;
+	left: 500px;
+	font-size: 20px;
+	font-weight: light;
+}
+
+img.logo {
+	position: absolute;
+	top: 385px;
+	left: 800px;
+	height: 60px;
+	width: 480px;
+}
+
+.line{
+	font-weight: light;
+	color: #BC0404;
+}
+
+div.cs {
+	
+	height: 1000px;
+	width: 1500px;
+	position: absolute;
+	top: 530px;
+	background-color: #F1F1F1;
+	margin: none;
+}
+
+h3 {
+
+	position: absolute;
+	top: 30px;
+	left: 640px;
+    font-size: 25px;
+	font-weight: bold;
+	letter-spacing: 0.8;
+	color: #5E5E5E;
+	font-family: sans-serif;
+	
+
+}
+
+p.projectname {
+	position: absolute;
+	top: 120px;
+	left: 800px;
+    font-size: 30px;
+	font-weight: normal;
+	font-family: ;
+
+}
+
+.blue {
+	color:#6C8BD5;
+	font-weight: bold;
+}
+
+.blue2 {
+	color:#6C8BD5;
+	font-weight: bold;
+}
+
+
+p.for {
+	position: absolute;
+	top: 258px;
+	left: 800px;
+    font-size: 16px;
+	font-weight: light;
+}
+
+p.des {
+
+	position: absolute;
+	top: 300px;
+	left: 800px;
+    font-size: 18px;
+	font-weight: light;
+	letter-spacing: 0.2px;
+	line-height: 23px;
+}
+
+
+.bold {
+	font-weight: bold;
+}
+
+.bold2 {
+	font-weight: bold;
+}
+
+.bold3 {
+	font-weight: bold;
+}
+
+
+
+button.casestudy {
+	position: absolute;
+	top: 405px;
+	left: 800px;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px 150px 10px 150px;
+	border-radius: 20px;
+
+}
+
+.casestudy:hover {
+	background-color: #6C8BD5;
+	
+}
+
+img.Resume {
+	position: absolute;
+	top: 100px;
+	left: 280px;
+	height: 1250px;
+	width: 900px;
+}
+
+img.bsf {
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	height: 300px;
+	width: 550px;
+}
+
+
+button.cscs {
+	position: absolute;
+	top: 790px;
+	left: 800px;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px 150px 10px 150px;
+	border-radius: 20px;
+
+}
+
+.cscs:hover {
+	background-color: #84A160;
+}
+
+p.citizenscience {
+	position: absolute;
+	top: 530px;
+	left: 800px;
+    font-size: 30px;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+
+.motivate {
+	font-weight: bold;
+	color: #84A160;
+	font-family: sans-serif;
+}
+
+.longterm {
+	font-weight: bold;
+	color: #84A160;
+	font-family: sans-serif;
+}
+
+p.csdes {
+	position: absolute;
+	top: 680px;
+	left: 800px;
+    font-size: 18px;
+	font-weight: light;
+	letter-spacing: 0.2px;
+	line-height: 23px;
+}
+
+.rewards {
+	font-weight: bold;
+}
+
+.reduce {
+	font-weight: bold;
+}
+
+img.CS {
+
+	position: absolute;
+	top: 150px;
+	margin: 30px;
+	height: 9500px;
+	width: 1400px;
+	align-content: center;
+}
+
+
+
+
+
+button.backtoprojects {
+
+position: absolute;
+	top: 9600px;
+	left: 500px;
+	background-color: #000000;
+	padding: 10px 150px 10px 150px;
+	border-radius: 20px;
+}
+
+.backtoprojects:hover {
+    background-color: #BC0404;
+	
+}
+
+
+.test:hover {
+
+}
+
+div.footer {
+	 height: 100px;
+	width: 1500px;
+	position: absolute;
+	top: 1550px;
+	left: 0px;
+	background-color: #FFFFFF;
+	
+
+}
+
+p.LinkedIn {
+
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 150px;
+	color: #000000;
+}
+
+p.gmail {
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 300px;
+	color: #000000;
+}
+
+p.insta {
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 600px;
+	color: #000000;
+}
+
+p.phone {
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 745px;
+	color: #000000;
+}
+
+div.footer2 {
+height: 100px;
+	width: 1500px;
+	position: absolute;
+	top: 9700px;
+	left: 0px;
+	background-color: #FFFFFF;
+
+}
+
+img.cscs1 {
+	position: absolute;
+	top: 150px;
+	margin: 30px;
+	height: 3150px;
+	width: 1400px;
+	align-content: center;
+}
+
+img.cscs2 {
+	position: absolute;
+	top: 3300px;
+	margin: 30px;
+	height: 2500px;
+	width: 1400px;
+	align-content: center;
+}
+
+img.cscs3 {
+	position: absolute;
+	top: 5900px;
+	margin: 30px;
+	height: 2800px;
+	width: 1400px;
+	align-content: center;
+}
+
+img.cscs4 {
+	position: absolute;
+	top: 8750px;
+	margin: 30px;
+	height: 2820px;
+	width: 1400px;
+	align-content: center;
+}
+
+
+img.cscover {
+
+	position: absolute;
+	top: 560px;
+	left: 150px;
+	height: 300px;
+	width: 540px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+button.btp {
+
+	position: absolute;
+	top: 11400px;
+	left: 500px;
+	background-color: #000000;
+	padding: 10px 150px 10px 150px;
+	border-radius: 20px;
+}
+
+.btp:hover {
+	background-color: #BC0404; 
+}
+
+div.footer3 {
+	height: 100px;
+	width: 1500px;
+	position: absolute;
+	top: 11550px;
+	left: 0px;
+	background-color: #FFFFFF;
+}
+
+p.LinkedIn1 {
+
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 150px;
+	color: #000000;
+}
+
+p.gmail1 {
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 300px;
+	color: #000000;
+}
+
+p.insta1 {
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 600px;
+	color: #000000;
+}
+
+p.phone1 {
+	font-size: 18px;
+	position: absolute;
+	top: 20px;
+	left: 745px;
+	color: #000000;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
