@@ -314,16 +314,40 @@ p.csdes {
 	font-weight: bold;
 }
 
-img.CS {
+img.bsf1 {
 
 	position: absolute;
 	top: 150px;
-	margin: 30px;
-	height: 9500px;
-	width: 1400px;
 	align-content: center;
+    height: 2650px;
+	width: 1450px;
+	
 }
 
+img.bsf2 {
+position: absolute;
+	top: 2800px;
+	align-content: center;
+    height: 2850px;
+	width: 1450px;
+	
+}
+
+img.bsf3 {
+position: absolute;
+	top: 5600px;
+	align-content: center;
+    height: 2400px;
+	width: 1450px;
+}
+
+img.bsf4 {
+position: absolute;
+	top: 7990px;
+	align-content: center;
+    height: 2400px;
+	width: 1450px;
+}
 
 
 
@@ -331,7 +355,7 @@ img.CS {
 button.backtoprojects {
 
 position: absolute;
-	top: 9600px;
+	top: 10500px;
 	left: 500px;
 	background-color: #000000;
 	padding: 10px 150px 10px 150px;
@@ -396,8 +420,8 @@ div.footer2 {
 height: 100px;
 	width: 1500px;
 	position: absolute;
-	top: 9700px;
-	left: 0px;
+	top: 10600px;
+	align-content: center;
 	background-color: #FFFFFF;
 
 }
